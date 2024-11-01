@@ -184,7 +184,7 @@ https://thvip.site/360/19/index.m3u8
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh miễn phí", ANTV
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh miễn phí", VNews
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 
