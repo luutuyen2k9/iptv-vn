@@ -8,7 +8,7 @@
 
 - GitHub
 
-```https://raw.githubusercontent.com/luutuyen2k9/iptv-vn/master/iptv-vn.m3u```
+```https://github.com/luutuyen2k9/iptv-vn/raw/refs/heads/iptv/iptv-vn.m3u```
 - Other Links
 
 ```http://vthanh.cc/iptv-vn```
