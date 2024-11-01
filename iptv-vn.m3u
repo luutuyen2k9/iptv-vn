@@ -196,9 +196,21 @@ https://tth.vn/Khichtv-live-k-cine-hd-m3u8
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
 
+#EXTINF:-1 tvg-id="onsportsplus" group-title="Kênh trả phí", On Sports+ [On Live]
+#EXTVLCOPT:http-user-agent=iptv-vn
+http://tth.vn/onsportplus
+
 #EXTINF:-1 tvg-id="onsports" group-title="Kênh trả phí", On Sports
 #EXTVLCOPT:http-user-agent=iptv-vn
-http://antm.dynu.net:14285/rtp/232.84.3.242:11374
+http://tth.vn/onsport
+
+#EXTINF:-1 tvg-id="onsportsnews" group-title="Kênh trả phí", On Sports News
+#EXTVLCOPT:http-user-agent=iptv-vn
+http://tth.vn/onsportnews
+
+#EXTINF:-1 tvg-id="onfootball" group-title="Kênh trả phí", On Football
+#EXTVLCOPT:http-user-agent=iptv-vn
+http://tth.vn/onfootball
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="Kênh trả phí", On Vie Giai Tri
 #EXTVLCOPT:http-user-agent=iptv-vn
@@ -237,6 +249,10 @@ https://thvip.site/360/169/index.m3u8
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="Kênh trả phí", SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="Kênh trả phí", SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 
