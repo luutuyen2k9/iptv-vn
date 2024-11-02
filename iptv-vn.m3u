@@ -192,6 +192,10 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://tth.vn/Khichtv-live-k-cine-hd-m3u8
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="Kênh trả phí", K+KIDS
+#EXTVLCOPT:http-user-agent=iptv-vn
+http://antm.dynu.net:14285/rtp/232.84.3.42:11800
+
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Kênh trả phí", On Sports+
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
@@ -202,15 +206,7 @@ http://tth.vn/onsportplus
 
 #EXTINF:-1 tvg-id="onsports" group-title="Kênh trả phí", On Sports
 #EXTVLCOPT:http-user-agent=iptv-vn
-http://tth.vn/onsport
-
-#EXTINF:-1 tvg-id="onsportsnews" group-title="Kênh trả phí", On Sports News
-#EXTVLCOPT:http-user-agent=iptv-vn
-http://tth.vn/onsportnews
-
-#EXTINF:-1 tvg-id="onfootball" group-title="Kênh trả phí", On Football
-#EXTVLCOPT:http-user-agent=iptv-vn
-http://tth.vn/onfootball
+http://antm.dynu.net:14285/rtp/232.84.3.242:11374
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="Kênh trả phí", On Vie Giai Tri
 #EXTVLCOPT:http-user-agent=iptv-vn
