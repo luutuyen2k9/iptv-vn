@@ -169,7 +169,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=15
 
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_480_270.png", Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082246244/ef0750ad0a39_480_270.png", Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 
