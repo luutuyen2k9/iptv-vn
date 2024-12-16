@@ -177,6 +177,10 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=96
 
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", Russia Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png", NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=106
