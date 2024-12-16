@@ -81,6 +81,10 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=190
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=191
 
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/HTV3HD.jpg", HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d_480_270.png", HTV Key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9
@@ -173,6 +177,26 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=96
 
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png", NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=106
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png", Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=111
+
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823332611/f8ac56be52c6_480_270.png", KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=213
+
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_480_270.png", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
+
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=112
@@ -229,18 +253,135 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=18
 
-#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png", THVL1
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png", On Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=180
+
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png", On Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=175
+
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png", On Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=181
+
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png", On Echannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=182
+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", On Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://raw.githubusercontent.com/luutuyen2k9/iptv-vn/main/streams/onsportsplus.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png", On O2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=136
+
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png", On BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=178
+
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", On Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=189
+
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png", On Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=176
+
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png", On Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=184
+
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png", On Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=185
+
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png", On Trending TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=186
+
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png", On Vie Dramas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=177
+
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png", On VFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=187
+
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_480_270.png", On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=179
+
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_480_270.png", On Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=188
+
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png", On Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=169
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png", SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png", SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png", SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=232
+
+#EXTINF:-1 tvg-id="sctv8hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png", SCTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png", SCTV12
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png", SCTV15
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png", SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv17hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv17hd.png", SCTV17
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png", SCTV22
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+
+#EXTINF:-1 group-title="THVL" tvg-id="vinhlong1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png", THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
 
-#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png", THVL2
+#EXTINF:-1 group-title="THVL" tvg-id="vinhlong2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png", THVL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
 
-#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png", THVL3
+#EXTINF:-1 group-title="THVL" tvg-id="vinhlong3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png", THVL3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=219
 
-#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong4hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png", THVL4
+#EXTINF:-1 group-title="THVL" tvg-id="vinhlong4hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png", THVL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=220
