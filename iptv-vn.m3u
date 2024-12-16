@@ -269,7 +269,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=181
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=182
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", On Sports Plus
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", On Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://raw.githubusercontent.com/luutuyen2k9/iptv-vn/main/streams/onsportsplus.m3u8
 
