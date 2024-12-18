@@ -15,3 +15,9 @@ An list containing Vietnamese and some foreign channels
       ```
       http://tth.vn/viet
       ```
+
+# Notice
+
+This playlist link does not contain illegal gambling and other shady stuffs
+
+No video files and copyrighted-content VOD are stored in this repository
