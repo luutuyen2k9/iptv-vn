@@ -267,7 +267,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=175
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png", On Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/627753454?profile=pass
+https://s7772.cdn.mytvnet.vn/pkg20/__cl/vstv264/sc-gaFEAA/m00123_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png", On Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
