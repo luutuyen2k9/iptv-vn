@@ -2,47 +2,47 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=2
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_480_270.png", VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=3
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_480_270.png", VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=4
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png", VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=108
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png", VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=110
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_480_270.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=207
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_480_270.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=157
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_480_270.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=98
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_480_270.png", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=6
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=115
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=8
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/06/03/10/1654228283744/fa8c885bd8ca_480_270.png", Quốc Hội TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -75,11 +75,11 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn
 
 #EXTINF:-1 tvg-id="htv1hd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_480_270.png", HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=190
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png", HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=191
+https://vc.101vn.com/htv/htvcmb.php?id=2669
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/HTV3HD.jpg", HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -87,19 +87,19 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d_480_270.png", HTV Key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png", HTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=193
+https://vc.101vn.com/htv/htvcmb.php?id=256
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_480_270.png", HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=194
+https://vc.101vn.com/htv/htvcmb.php?id=2667
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_480_270.png", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=195
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -201,49 +201,53 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://125hvt.ddns.net:21585/axn/index.m3u8
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=112
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381155834/1a1200ca72a2_480_270.png", VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=16
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822508145/db329b99b111_480_270.png", VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=196
+https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381099387/71376f4507d1_480_270.png", VTC3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=197
+https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380689631/dce79c37a50e_480_270.png", VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=198
+https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380739745/e3caedf9f7bd_480_270.png", VTC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=199
+https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380769666/d3a00bb06a9a_480_270.png", VTC6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=200
+https://live.fptplay53.net/fnxhd2/vtc6_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380804236/8fafa4f9825a_480_270.png", VTC7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=201
+https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822237317/7e3263a08d04_480_270.png", VTC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=202
+https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380834137/6e7c7f7266ba_480_270.png", VTC9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=203
+https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381192719/28cb71fc1d73_480_270.png", VTC10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=204
+https://live.fptplay53.net/fnxhd2/vtc10hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823506689/4deaf68ae9bc_480_270.png", VTC11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -251,11 +255,11 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=205
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380886829/f9998e2ee6aa_480_270.png", VTC14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=17
+https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380937468/81aa6678065c_480_270.png", VTC16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=18
+https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png", On Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
