@@ -103,27 +103,27 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=15
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_480_270.png", HTVC Gia Đình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=11
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_480_270.png", HTVC Phụ Nữ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=12
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_480_270.png", HTVC Du Lịch & Cuộc sống
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=133
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_480_270.png", HTVC Ca Nhạc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=14
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_480_270.png", HTVC Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=132
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -187,7 +187,7 @@ http://125hvt.ddns.net:21585/tlc/index.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png", NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=106
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.47/test/123/playlist.mpegts
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -208,6 +208,10 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png", Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mpegts
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -283,7 +287,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", On Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://raw.githubusercontent.com/luutuyen2k9/iptv-vn/refs/heads/main/streams/onsportsplus.m3u8
+https://cdn.githubraw.com/luutuyen2k9/iptv-vn/refs/heads/main/streams/onsportsplus.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png", On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
