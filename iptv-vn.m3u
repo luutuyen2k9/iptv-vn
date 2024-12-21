@@ -283,7 +283,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png", On Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://cdn.githubraw.com/luutuyen2k9/iptv-vn/refs/heads/main/streams/onsportsplus.m3u8
+https://raw.githubusercontent.com/luutuyen2k9/iptv-vn/refs/heads/main/streams/onsportsplus.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png", On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
