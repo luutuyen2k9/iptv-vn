@@ -209,17 +209,9 @@ https://oipf0znpmnliv.vcdn.cloud/hls/kbsworld/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9856
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://125hvt.ddns.net:21585/hbo/index.m3u8
-
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/axn/index.m3u8
-
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png", Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mpegts
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
