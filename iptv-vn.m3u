@@ -218,6 +218,14 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 
+#EXTINF:-1 tvg-id="spotv1" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg", SPOTV1 (Indonesia Feed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id="spotv2" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg", SPOTV2 (Indonesia Feed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381155834/1a1200ca72a2_480_270.png", VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/vtc1/tracks-v1a1/mono.m3u8
