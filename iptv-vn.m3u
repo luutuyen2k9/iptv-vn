@@ -52,10 +52,6 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 
-#EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822524686/56155e5fc946_480_270.png", Nhân Dân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
-
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822812268/96c2ed28d08e_480_270.png", VNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
@@ -232,58 +228,6 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="spotv2" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg", SPOTV2 (Indonesia Feed)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381155834/1a1200ca72a2_480_270.png", VTC1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://125hvt.ddns.net:21585/vtc1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822508145/db329b99b111_480_270.png", VTC2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381099387/71376f4507d1_480_270.png", VTC3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380689631/dce79c37a50e_480_270.png", VTC4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380739745/e3caedf9f7bd_480_270.png", VTC5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380769666/d3a00bb06a9a_480_270.png", VTC6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc6_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380804236/8fafa4f9825a_480_270.png", VTC7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822237317/7e3263a08d04_480_270.png", VTC8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380834137/6e7c7f7266ba_480_270.png", VTC9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728381192719/28cb71fc1d73_480_270.png", VTC10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc10hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823506689/4deaf68ae9bc_480_270.png", VTC11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=205
-
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380886829/f9998e2ee6aa_480_270.png", VTC14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/08/16/1728380937468/81aa6678065c_480_270.png", VTC16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png", On Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
