@@ -62,11 +62,11 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?pr
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
+https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv341/sc-gaFEAA/m00123_index.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
+https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv373/sc-gaFEAA/m00123_index.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
