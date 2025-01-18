@@ -62,11 +62,11 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?pr
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv341/sc-gaFEAA/m00123_index.m3u8
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv373/sc-gaFEAA/m00123_index.m3u8
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -131,19 +131,19 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=239
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_480_270.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=159
+https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_480_270.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=160
+https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png", In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=235
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png", CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -159,11 +159,11 @@ https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_480_270.png", Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=237
+https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_480_270.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=135
+https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_480_270.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -179,7 +179,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082328472/0da91b00311f_480_270.png", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://shopvophu.com/tv360.php?id=96
+https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -192,10 +192,6 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KZqwTe4.png", TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/tlc/index.m3u8
-
-#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png", NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.47/test/123/playlist.mpegts
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
