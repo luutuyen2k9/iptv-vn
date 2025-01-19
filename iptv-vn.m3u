@@ -215,13 +215,13 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 
-#EXTINF:-1 tvg-id="spotv1" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg", SPOTV1 (Indonesia Feed)
+#EXTINF:-1 tvg-id="spotv1" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/903302966
 
-#EXTINF:-1 tvg-id="spotv2" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg", SPOTV2 (Indonesia Feed)
+#EXTINF:-1 tvg-id="spotv2" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg", SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/158220941
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png", On Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -344,18 +344,30 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 
-#EXTINF:-1 group-title="THVL" tvg-id="vinhlong1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png", THVL1
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png", THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 
-#EXTINF:-1 group-title="THVL" tvg-id="vinhlong2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png", THVL2
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png", THVL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 
-#EXTINF:-1 group-title="THVL" tvg-id="vinhlong3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png", THVL3
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png", THVL3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="THVL" tvg-id="vinhlong4hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png", THVL4
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphong" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphongplus" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://tv.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi1" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png", HanoiTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://tv.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi2" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png", HanoiTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://tv.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh
