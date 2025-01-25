@@ -60,15 +60,15 @@ http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1490899242?profile=pass
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1490899242?profile=pass
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2000475896?profile=pass
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/2000475896?profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -217,11 +217,11 @@ https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 
 #EXTINF:-1 tvg-id="spotv1" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv1.jpg", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/903302966
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/903302966
 
 #EXTINF:-1 tvg-id="spotv2" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/spotv2.jpg", SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/158220941
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/158220941
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png", On Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
