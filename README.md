@@ -11,9 +11,9 @@ An list containing Vietnamese and some foreign channels
       ```
       https://cdn.githubraw.com/luutuyen2k9/iptv-vn/refs/heads/main/iptv-vn.m3u
       ```
-   * **Shortened Link** (Does not work because of invalid SSL)
+   * **Shortened Link**
       ```
-      http://tth.vn/viet
+      http://voz.ee/s/viet
       ```
 
 # Notice
