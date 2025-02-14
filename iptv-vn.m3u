@@ -137,6 +137,10 @@ http://125hvt.ddns.net:21585/cnn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/4ESi2La.png", NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_480_270.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
@@ -302,22 +306,10 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png", SCTV15
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://olala.thatvidieu.site/stream/mux/c4ce20301964e4e48a450a1f2b47b5ca
-
 #EXTINF:-1 tvg-id="sctv16hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png", SCTV16
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
-
-#EXTINF:-1 tvg-id="sctv17hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv17hd.png", SCTV17
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://olala.thatvidieu.site/stream/mux/3e8422fdfa8b2ed1a277b25f819dfdb6
-
-#EXTINF:-1 tvg-id="sctv22hd" group-title="VTVcab/SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png", SCTV22
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://olala.thatvidieu.site/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
 
 #EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png", THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
