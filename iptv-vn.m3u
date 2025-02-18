@@ -177,6 +177,10 @@ https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 
+#EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png", DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7bRVpnu.png", Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
@@ -201,6 +205,10 @@ https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 http://125hvt.ddns.net:21585/axn/index.m3u8
 
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png", BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
@@ -219,51 +227,51 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png", On Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab2/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png", On Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png", On Echannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png", On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab7/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png", On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab8/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", On Info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab9/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png", On Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab10/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png", On Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab12/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png", On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab15/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png", On Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png", On Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png", On VFamily
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab/SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_480_270.png", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
