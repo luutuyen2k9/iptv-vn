@@ -110,7 +110,31 @@ https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/26/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/219/index.m3u8
 
-## -- Link outside tv360 and fptplay
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh miễn phí",ANTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://ott1.nethubtv.vn/live/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh miễn phí",QPVN
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
+
+#EXTINF:-1 group-title="Kênh miễn phí",ATV
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh miễn phí",BTV1 
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh miễn phí",BTV2
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh miễn phí",THGL
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh miễn phí",TRT
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh miễn phí",ĐTV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Kênh miễn phí",HGTV HD
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Kênh miễn phí",TTV HD
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+
+## -- Link outside tv360 and fptplay and others
 
 #EXTINF:0 tvg-id="onsports" group-title="Kênh trả phí",On Sports
 http://truyenhinh.click/vtvcab3
