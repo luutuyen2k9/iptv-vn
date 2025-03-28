@@ -109,9 +109,6 @@ https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh miễn phí",THVL3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/219/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh miễn phí",THVL4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/220/index.m3u8
 
 ## -- Link outside tv360 and fptplay
 
