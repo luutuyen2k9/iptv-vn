@@ -24,19 +24,19 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh miễn phí",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="HTV",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh miễn phí",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh miễn phí",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV",HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="Kênh miễn phí",HTV Key
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="Kênh miễn phí",HTV7
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV",HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="Kênh miễn phí",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Kênh miễn phí",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="htvccanhachd" group-title="Kênh trả phí",HTVC Ca Nhạc
