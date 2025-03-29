@@ -134,21 +134,6 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="Kênh miễn phí",TTV HD
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế",Kix
-https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="channelnewsasia" group-title="Kênh quốc tế",Channel News Asia
-https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh quốc tế",KBS World
-https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh quốc tế",NHK World Japan
-https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="france24" group-title="Kênh quốc tế",France 24
-https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="cnbcsd" group-title="Kênh quốc tế",CNBC
-https://tv.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="Kênh quốc tế",DaVinci
-https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh.m3u8
-
 ## -- Link outside tv360 and fptplay and others
 
 #EXTINF:0 tvg-id="onsports" group-title="Kênh trả phí",On Sports
