@@ -23,7 +23,6 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh miễn phí",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh miễn phí",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="Kênh miễn phí",HTV2
@@ -56,59 +55,60 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Kênh trả phí",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/180/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="Kênh trả phí" ,ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/175/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="Kênh trả phí" ,On Movies - You TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/181/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="Kênh trả phí" ,ON Echannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/182/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ono2tv" group-title="Kênh trả phí" ,On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/136/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="Kênh trả phí" ,On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/178/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="Kênh trả phí" ,ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/189/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="Kênh trả phí" ,ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/176/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="Kênh trả phí" ,ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/184/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="Kênh trả phí" ,On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/185/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="ontrending" group-title="Kênh trả phí" ,ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/186/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="Kênh trả phí" ,ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/177/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="Kênh trả phí" ,ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/187/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="Kênh trả phí" ,On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/179/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="Kênh trả phí" ,On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/188/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh miễn phí",THVL1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/25/index.m3u8
+http://125hvt.ddns.net:21585/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh miễn phí",THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/26/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh miễn phí",THVL3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/219/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh miễn phí",THVL4 HD
+https://tv.TruyenHinh.Click/CoBan/thvl4/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh miễn phí",ANTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -117,15 +117,15 @@ https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 
-#EXTINF:-1 group-title="Kênh miễn phí",ATV
+#EXTINF:-1 tvg-id="angiang" group-title="Kênh miễn phí",ATV
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh miễn phí",BTV1 
+#EXTINF:-1 tvg-id="binhduong1" group-title="Kênh miễn phí",BTV1 
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh miễn phí",BTV2
+#EXTINF:-1 tvg-id="binhduong2" group-title="Kênh miễn phí",BTV2
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh miễn phí",THGL
+#EXTINF:-1 tvg-id="gialai" group-title="Kênh miễn phí",THGL
 https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh miễn phí",TRT
+#EXTINF:-1 tvg-id="hue" group-title="Kênh miễn phí",TRT
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh miễn phí",ĐTV
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
@@ -133,6 +133,21 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="Kênh miễn phí",TTV HD
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế",Kix
+https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="channelnewsasia" group-title="Kênh quốc tế",Channel News Asia
+https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Kênh quốc tế",KBS World
+https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="Kênh quốc tế",NHK World Japan
+https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="france24" group-title="Kênh quốc tế",France 24
+https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cnbcsd" group-title="Kênh quốc tế",CNBC
+https://tv.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="Kênh quốc tế",DaVinci
+https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh.m3u8
 
 ## -- Link outside tv360 and fptplay and others
 
