@@ -139,22 +139,3 @@ https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kixhd" group-title="Kênh quốc tế",Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-## -- Link outside tv360 and fptplay and others
-
-#EXTINF:0 tvg-id="onsports" group-title="Kênh trả phí",On Sports
-http://truyenhinh.click/vtvcab3
-
-#EXTINF:0 tvg-id="onsportsplus" group-title="Kênh trả phí",On Sports+
-http://truyenhinh.click/vtvcab6
-
-#EXTINF:0 tvg-id="onfootball" group-title="Kênh trả phí",On Football
-http://truyenhinh.click/vtvcab16
-
-#EXTINF:0 tvg-id="onsportsnews" group-title="Kênh trả phí",On Sports News
-http://truyenhinh.click/vtvcab18
-
-#EXTINF:0 tvg-id="kcinehd" group-title="Kênh trả phí",K+CINE
-http://truyenhinh.click/kcinehd
-
-#EXTINF:0 tvg-id="kactionhd" group-title="Kênh trả phí",K+ACTION
-http://truyenhinh.click/kactionhd
