@@ -10,5 +10,6 @@ https://voz.ee/s/viet
 https://bit.ly/iptv-vn
 ```
 
-# Notice
-Stream Link was taken from other iptv m3u in VN
+# Disclaimer
+Codes here all found in GitHub <br>
+Free to use, **NOT FOR SALE**
